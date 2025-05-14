@@ -1,0 +1,14 @@
+[project]
+name = "curves"
+description = "Generate or draw FLOAT arrays within ComfyUI"
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/tavyra/ComfyUI_Curves"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI_Curves"
+Icon = ""
